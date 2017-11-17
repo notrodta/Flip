@@ -1,5 +1,5 @@
 # Flip
-`Flip` is a mini game created by using hte Unity Game Engine
+`Flip` is a mini game created by using the Unity Game Engine
 
 A downloadble version can be found at: <https://notrodta.itch.io/flip>
 
